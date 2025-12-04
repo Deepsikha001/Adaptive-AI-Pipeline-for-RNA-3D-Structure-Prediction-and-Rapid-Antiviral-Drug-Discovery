@@ -143,50 +143,9 @@ Use py3Dmol viewer for visualization
 
 (APA formatted — add actual papers you cited in your poster)
 
-🔗 10. QR Code
 
-Add a PNG here that links to your GitHub repo.
-
-⭐ A4 PAMPhlet CONTENT (Copy-Pastable)
-
-Title:
-Adaptive AI Pipeline for RNA 3D Structure Prediction & Rapid Antiviral Drug Discovery
-
-Objective:
-Develop a rapid computational workflow to screen small molecules and biologics against SARS-CoV-2 Spike RBD using AI-assisted structural modeling.
-
-Methods:
-
-AI-based sequence embedding
-
-RDKit molecule generation
-
-Property calculation (MW, LogP, TPSA)
-
-Structural visualization
-
-High-level virtual screening
-
-Molecules Studied:
-
-Remdesivir
-
-Sotrovimab fragment
-
-10 RDKit-generated analogs
-
-Key Results:
-
-All analogs generated successfully
-
-Uniform high-level docking scores across molecules
-
-Sotrovimab fragment showed broader interaction surface
-
-Pipeline demonstrates rapid computational screening
-
-Conclusion:
-A unified AI pipeline can rapidly test structural hypotheses and guide early-stage antiviral research.
-
-QR Code:
-(Link to your GitHub)
+## Acknowledgement
+Diposree Pramanick, Kalyani Government Engineering College
+Pradip Kumar Pramanick
+Debika Pramanick
+Attitude, Atkins, Garfield, Atlantis, Arthur, Thor, Loki, Hela, Harry, Hermione, Ronald, Alexander, Atlas And all other cats and Gyangchu, Shantilaal, Kantilaal, Kanjilaal, Maganlaal, Lul, Mocha, Espresso, Butter and all other dogs and every other creature who motivate me doing this project, thank you all :)  
