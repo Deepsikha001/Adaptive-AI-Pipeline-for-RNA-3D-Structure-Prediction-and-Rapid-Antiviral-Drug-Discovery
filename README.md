@@ -145,7 +145,7 @@ Use py3Dmol viewer for visualization
 
 
 ## Acknowledgement
-Diposree Pramanick, Sister
-Pradip Kumar Pramanick, Father
-Debika Pramanick, Mother
+Diposree Pramanick, Sister;
+Pradip Kumar Pramanick, Father;
+Debika Pramanick, Mother;
 Attitude, Atkins, Garfield, Atlantis, Arthur, Thor, Loki, Hela, Harry, Hermione, Ronald, Alexander, Atlas And all other cats and Gyangchu, Shantilaal, Kantilaal, Kanjilaal, Maganlaal, Lul, Mocha, Espresso, Butter and all other dogs and every other creature who motivate me doing this project, thank you all :)  
