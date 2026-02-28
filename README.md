@@ -22,6 +22,7 @@ This project supports the poster submission to CARE Conference 2025, IIT Guwahat
 
 📁 2. Repository Contents
 /data
+ 
  ├── 7WBP_spike_RBD.pdb          # RBD structure
  
  ├── remdesivir.sdf
