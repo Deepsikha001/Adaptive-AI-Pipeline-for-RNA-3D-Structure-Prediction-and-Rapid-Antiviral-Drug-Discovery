@@ -141,8 +141,7 @@ Use py3Dmol viewer for visualization
 
 📚 9. References
 
-(APA formatted — add actual papers you cited in your poster)
-
+Protein Data Bank (PDB ID: 7WBP); RDKit (Landrum, 2013); AutoDock Vina (Trott & Olson, 2010); 3Dmol.js (Rego & Koes, 2015); WHO SARS-CoV-2 Variant Reports; Beigel et al., 2020 (Remdesivir); Gupta et al., 2021 (Sotrovimab).
 
 ## Acknowledgement
 Diposree Pramanick, Sister;
