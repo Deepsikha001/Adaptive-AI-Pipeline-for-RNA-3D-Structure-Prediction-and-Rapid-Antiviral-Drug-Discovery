@@ -23,21 +23,33 @@ This project supports the poster submission to CARE Conference 2025, IIT Guwahat
 📁 2. Repository Contents
 /data
  ├── 7WBP_spike_RBD.pdb          # RBD structure
+ 
  ├── remdesivir.sdf
+ 
  ├── sotrovimab_fragment.sdf     # heavy-chain variable region fragment
+ 
  ├── generated_molecules.sdf
+ 
  ├── docking_results.csv
 
 /notebooks
+ 
  ├── pipeline.ipynb              # main workflow
+ 
  ├── visualization.ipynb
+ 
  ├── RDKit_generation.ipynb
 
 /figures
+ 
  ├── pipeline_diagram.png
+ 
  ├── RBD_structure.png
+ 
  ├── remdesivir_docked.png
+ 
  ├── sotrovimab_docked.png
+ 
  ├── top_hits_table.png
 
 README.md
